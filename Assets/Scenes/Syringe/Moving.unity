@@ -251,6 +251,7 @@ GameObject:
   - component: {fileID: 435566366}
   - component: {fileID: 435566367}
   - component: {fileID: 435566368}
+  - component: {fileID: 435566369}
   m_Layer: 5
   m_Name: Syringe
   m_TagString: Untagged
@@ -323,7 +324,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 435566362}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b655ee75db3179b48be84623639119a9, type: 3}
   m_Name: 
@@ -355,6 +356,20 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &435566369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435566362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e80dcbc18f7a2474cb51f6c2506d4a19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Movespeed: 0.5
+  maxMagnitude: 1
 --- !u!1 &494851853
 GameObject:
   m_ObjectHideFlags: 0
