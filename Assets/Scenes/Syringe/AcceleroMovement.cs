@@ -15,5 +15,7 @@ public class AcceleroMovement : MonoBehaviour
         direction = Vector2.ClampMagnitude(direction, maxMagnitude);
 
         transform.Translate(direction * acceleration);
+
+        //Found some helpfull unity implementation https://docs.unity3d.com/ScriptReference/Vector2.html and took inspiration from 
     }
 }

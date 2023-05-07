@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
-public class SnapOn : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler
+public class SnapOn : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler // These classes are used when using OnDrag, OnBeginDrag, OnEnddrag callbacks. Theses are interfaces.. 
 {
     public RectTransform SnapOnCorrect;
     public float SnapPossition = 5f;

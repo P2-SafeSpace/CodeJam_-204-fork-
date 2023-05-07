@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OtoscopeDrag" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAABBAFAACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Otoscope\OtoscopeDrag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OctoscopDrag" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAABBAFAACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Stetoskop\OctoscopDrag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StetoskopDrag1" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAABBAFAACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Stetoskop\StetoskopDrag1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AcceleroMovement">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Syringe\AcceleroMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnapOn" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAABBAFAACAAAAACAAAAAAABAAQAA=</HashCode>
+      <FileName>Assets\Scenes\Syringe\SnapOn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SnapOn_1" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAABBAFAACAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Syringe\SnapOn_1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Clicknext">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Vægt Scenes\Clicknext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clicknext1">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Vægt Scenes\Clicknext1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinigameSnap">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAABAABAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\Vægt Scenes\MinigameSnap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClickButton" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAAAAAEAIAAAAAAAAAAAAAAAAAQAQAAAAAgAABAA=</HashCode>
+      <FileName>Assets\Script\ClickButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DialogueManager">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAACABAAAAAEAAAAAAAAIAAAAACABAAAABAAA=</HashCode>
+      <FileName>Assets\Script\DialogueManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuManager">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Moveable">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAASACAAAAAAAgAAAAAAAAAACAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Moveable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scroller">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Script\Scroller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlaySoundOnStart">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\SoundManagerScripts\PlaySoundOnStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASAEAAAABAABAAAAgAAABAQAAAABAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\SoundManagerScripts\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToggleAudio">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Script\SoundManagerScripts\ToggleAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VolumeUpdater">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\SoundManagerScripts\VolumeUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonoBehaviour">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonoBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

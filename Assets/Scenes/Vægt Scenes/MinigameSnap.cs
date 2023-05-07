@@ -17,7 +17,7 @@ public class MinigameSnap : MonoBehaviour
 
     private void Update()
     {
-        // Calculate the distance between the current position and the correct position
+        // Calculates the distance between the current position and the correct position
         float distance = Vector2.Distance(TransformerMode.anchoredPosition, SnapOnCorrect.anchoredPosition);
 
         // If the distance is within the snap distance, snap the image to the correct position
